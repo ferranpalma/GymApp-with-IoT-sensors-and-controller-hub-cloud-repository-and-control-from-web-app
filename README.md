@@ -6,7 +6,7 @@ Código correspondiente a la página web desarrollada para el trabajo de fin de 
 
 Codi corresponent a la pàgina web desenvolupada pel treball de fi de grau així com repositori on consultar les imatges emprades a la memòria.
 
-## Imatges
+## Images / Imágenes / Imatges
 
 All the images of the document can be consulted in the corresponding folder. Each image has the name of the figure of the document to which it corresponds.
 
@@ -14,7 +14,7 @@ Todas las imágenes del documento se pueden consultar en la carpeta correspondie
 
 Totes les imatges del document es poden consultar a la carpeta corresponent. Cada imatge porta per nom la figura del document a la que correspon.
 
-## Codi
+## Code / Código / Codi
 
 The code of the web page as well as the local server that has been used is in the folder called Flask. Please note that, for security reasons, the keys have been deleted and therefore the code cannot be used as it is.
 
