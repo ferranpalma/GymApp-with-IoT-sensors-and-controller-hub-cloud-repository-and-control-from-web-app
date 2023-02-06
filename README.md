@@ -1,4 +1,4 @@
-# IoT sensor and controller hub with cloud repository and control from web app
+# GymApp with IoT sensors and controller hub, cloud repository and control from web app
 
 Code corresponding to the web page developed for the final degree project as well as a repository in which to consult the images used in the final document.
 
